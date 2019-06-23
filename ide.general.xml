@@ -1,0 +1,5 @@
+<application>
+  <component name="Registry">
+    <entry key="git.reset.credential.helper" value="false" />
+  </component>
+</application>
